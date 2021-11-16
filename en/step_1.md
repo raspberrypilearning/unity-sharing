@@ -59,7 +59,7 @@ Click on the **Run** button and you should see your game running in the output w
 At the top of the output window, you will see a URL. This is the URL of your game, that you can then share with people.
 
 <div>
-  <iframe allowtransparency="true" width="700" height="400" src="https://sharegame.marcscott.repl.co/" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="500" height="400" src="https://sharegame.marcscott.repl.co/" frameborder="0"></iframe>
 </div>
 
 

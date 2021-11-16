@@ -24,7 +24,7 @@ Once Unity has opened, check that the **Build Settings...** from the **File** me
 
 From the **Player** menu on the left, in the collapsible menu for **Publishing Settings**, select **Disabled** from the **Compression Format** options.
 
-![Project setting window with the Player menu highlighted and the Compression format set to Disabled and highlighted](images/6_disabled_compression.png)
+![Project setting window with the Player menu highlighted and the Compression format set to Disabled and highlighted](images/6_disable_compression.png)
 
 Close the settings window and then click on the **Build And Run** button, then choose where you want to save your built project. This will take a few minutes on your first run, but will be quicker on following builds.
 
@@ -40,11 +40,13 @@ Open repl.it in your web browser, and either sign in, or sign up for an account 
 
 ![create repl button](images/9_create_repl.png)
 
-Choose to make an **HTML, CSS, JS** project, then give your project a name and click the **Create Repl** buttont.
+Choose to make an **HTML, CSS, JS** project, then give your project a name and click the **Create Repl** button.
+
+![html, css, js menu for creating a new repl](images/10_html_repl.png)
 
 Use the three dot menus to **Delete** all the files in the project.
 
-[menu selected for the index file and the Delete button shown in red](images/11_delete_files.png)
+![menu selected for the index file and the Delete button shown in red](images/11_delete_files.png)
 
 You can now drag and drop all your build files into your repl.it project.
 
@@ -57,7 +59,7 @@ Click on the **Run** button and you should see your game running in the output w
 At the top of the output window, you will see a URL. This is the URL of your game, that you can then share with people.
 
 <div>
-  <iframe allowtransparency="true" width="640" height="480" src="https://sharegame.marcscott.repl.co/" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="320" height="240" src="https://sharegame.marcscott.repl.co/" frameborder="0"></iframe>
 </div>
 
 

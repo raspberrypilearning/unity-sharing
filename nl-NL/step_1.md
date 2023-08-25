@@ -1,62 +1,62 @@
-## Sharing Unity projects
+## Unity projecten delen
 
-When your project is complete, you can share it with your friends or family.
+Wanneer je project af is, kun je het delen met je vrienden of familie.
 
-If this is your first time sharing a project, you need to change your build settings.
+Als dit de eerste keer is dat je een project deelt, moet je je build-instellingen wijzigen.
 
-Click on the **File** menu and select **Build Settings...**.
+Klik op het **File** menu en selecteer **Build Settings...**.
 
-![File menu selected and Build Settings highlighted.](images/1_file_build_settings.png)
+![File menu geselecteerd en Build settings gemarkeerd.](images/1_file_build_settings.png)
 
-On the next screen, select **WebGL** and click on the **Install with Unity Hub** option.
+Selecteer in het volgende scherm **WebGL** en klik op de optie **Install with Unity Hub**.
 
-![WebGL option selected and the Install with Unity Hub button highlighted.](images/2_install_webgl.png)
+![WebGL optie geselecteerd en de Install with Unity Hub knop gemarkeerd.](images/2_install_webgl.png)
 
-On the next screen, click the **Install** button, then wait for the WebGL module to be installed.
+Klik in het volgende scherm op de knop **Install** en wacht tot de WebGL-module is geïnstalleerd.
 
-![Add modules screen with Install button highlighted.](images/3_add_modules.png)
+![Add modules scherm met Install button gemarkeerd.](images/3_add_modules.png)
 
-Once the module has installed, you can close Unity Hub, and then close Unity and restart it.
+Zodra de module geïnstalleerd is, kun je Unity Hub sluiten en daarna Unity sluiten en opnieuw starten.
 
-Once Unity has re-opened, check that the **Build Settings...** from the **File** menu have been updated, and show that WebGL has been installed. Then click on the **Player Settings...** button.
+Nadat Unity opnieuw is geopend, controleer je of de **Build Settings...** in het **File** menu zijn bijgewerkt en dat WebGL is geïnstalleerd. Klik vervolgens op de knop **Player Settings...**.
 
-![Build Settings window shown with the WebGL options highlighted and the Player Settings button highlighted.](images/5_webgl_installed.png)
+![Build settings venster wordt weergegeven met de WebGL opties gemarkeerd en de Player Settings knop gemarkeerd.](images/5_webgl_installed.png)
 
-From the Player menu on the left, in the collapsible menu for Publishing Settings, select **Disabled** from the Compression Format options.
+Selecteer in het menu Player aan de linkerkant in het inklapbare menu voor Publishing Settings, **Disabled** bij de Compression Format opties.
 
-![Project setting window with the Player menu highlighted and the Compression format set to Disabled and highlighted.](images/6_disable_compression.png)
+![Project setting window met het Player menu gemarkeerd en de Compression format ingesteld op Disabled en gemarkeerd.](images/6_disable_compression.png)
 
-Close the settings window and then click on the **Build And Run** button, then choose where you want to save your built project. This will take a few minutes on your first run, but will be quicker on following builds.
+Sluit het settings venster en klik vervolgens op de **Build and Run** -knop, en kies vervolgens waar je je project wil opslaan. Dit duurt een paar minuten tijdens je eerste run, maar zal sneller zijn bij volgende builds.
 
-![Build And Run button highlighted on the Build Settings menu.](images/7_build_run.png)
+![Build And Run knop gemarkeerd in het Build Settings menu.](images/7_build_run.png)
 
-You game should automatically open in your default web browser, and be playable.
+Je game zou automatisch moeten openen in je standaard webbrowser en speelbaar moeten zijn.
 
-![The WebGL player shown with a game running.](images/8_webgl_player.png)
+![De WebGL-speler wordt weergegeven met een spel dat draait.](images/8_webgl_player.png)
 
-To share your project, you need to upload it to a web server. There are many ways of doing this, but one of the simplest is to use [repl.it](https://replit.com).
+Om jouw project te delen, moet je het uploaden naar een webserver. Er zijn veel manieren om dit te doen, maar een van de eenvoudigste is om [repl.it](https://replit.com)te gebruiken.
 
-Open repl.it in your web browser, and either sign in, or sign up for an account if you don't have one.
+Open repl.it in je webbrowser en meld je aan of maak een account aan als je er nog geen hebt.
 
-![Create repl button.](images/9_create_repl.png)
+![Create repl knop.](images/9_create_repl.png)
 
-Choose to make an **HTML, CSS, JS** project, then give your project a name and click the **Create Repl** button.
+Kies om een **HTML, CSS, JS** project te maken, geef je project dan een naam en klik op de **Create Repl** knop.
 
-![The html, css, js menu for creating a new repl.](images/10_html_repl.png)
+![Het html-, css-, js-menu voor het maken van een nieuwe repl.](images/10_html_repl.png)
 
-Use the three dot menus to Delete all the files in the project.
+Gebruik het menu met drie stippen om alle bestanden in het project te verwijderen.
 
-![Menu selected for the index file and the Delete button shown in red.](images/11_delete_files.png)
+![Menu geselecteerd voor het index bestand en de Delete knop in rood weergegeven.](images/11_delete_files.png)
 
-You can now drag and drop all your build files into your repl.it project.
+Je kunt nu al je build-bestanden naar je repl.it-project slepen en neerzetten.
 
-![The Build, TemplateData, and index.html files and folders shown in repl.it.](images/12_drag_drop_files.png)
+![De Build, TemplateData en index.html bestanden en mappen die worden weergegeven in repl.it.](images/12_drag_drop_files.png)
 
-Click on the **Run** button and you should see your game running in the output window.
+Klik op de knop **Run** en je zou je spel in het output window moeten zien draaien.
 
-![Game url shown in the output window.](images/13_game_url.png)
+![Spel url weergegeven in het uitvoervenster.](images/13_game_url.png)
 
-At the top of the output window, you will see a URL. This is the URL of your game; you can share this with people.
+Aan de bovenkant van het output window zie je een URL. Dit is de URL van je spel; je kunt deze delen met andere mensen.
 
 <div>
   <iframe allowtransparency="true" width="500" height="400" src="https://sharegame.marcscott.repl.co/" frameborder="0"></iframe>

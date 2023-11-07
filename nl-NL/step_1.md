@@ -34,7 +34,7 @@ Je game zou automatisch moeten openen in je standaard webbrowser en speelbaar mo
 
 ![De WebGL-speler wordt weergegeven met een spel dat draait.](images/8_webgl_player.png)
 
-Om jouw project te delen, moet je het uploaden naar een webserver. Er zijn veel manieren om dit te doen, maar een van de eenvoudigste is om [repl.it](https://replit.com)te gebruiken.
+Om jouw project te delen, moet je het uploaden naar een webserver. Er zijn veel manieren om dit te doen, maar een van de eenvoudigste is om [repl.it](https://replit.com) te gebruiken.
 
 Open repl.it in je webbrowser en meld je aan of maak een account aan als je er nog geen hebt.
 
